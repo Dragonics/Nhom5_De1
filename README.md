@@ -1,5 +1,7 @@
 # Nhom5_De1 
+
 fit-dnu dainam-university aiot-lab-dnu
+
 Đề tài 1
  Xây dựng trò chơi rắn săn mồi với các chướng ngại vật di động. Luật chơi như sau:
  
