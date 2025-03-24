@@ -143,7 +143,7 @@ def draw_astar_panel(screen, path):
     draw_text(screen, "A* Debug", 30, WINDOW_SIZE + PANEL_WIDTH//2, 30, YELLOW)
     if path:
         # Hiển thị độ dài đường đi (số bước)
-        draw_text(screen, f"Độ dài: {len(path)}", 25, WINDOW_SIZE + PANEL_WIDTH//2, 70, WHITE)
+        draw_text(screen, f"Do dai: {len(path)}", 25, WINDOW_SIZE + PANEL_WIDTH//2, 70, WHITE)
         # Liệt kê từng bước trong đường đi
         for idx, node in enumerate(path):
             text = f"{idx}: {node}"
